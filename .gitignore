@@ -1,2 +1,2 @@
-# omit tmp files
+# omit temp files:
 *.tmp
